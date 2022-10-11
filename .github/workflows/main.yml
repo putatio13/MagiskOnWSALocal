@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@putatio13 
-AdityaAgarwal539
-/
-MagiskOnWSA-1
-Public
-forked from EricFengFuuuu/MagiskOnWSA
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Build WSA Build WSA #4
-Summary
-Usage
-Workflow file
-Jobs
-matrix
-build (x64)
-Workflow file for this run
-.github/workflows/magisk.yml at 79f2d86
 name: Build WSA
 on:
   workflow_dispatch:
@@ -679,4 +651,3 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 0
           keep_minimum_runs: 0
-Fix release type of download url (#486) · AdityaAgarwal539/MagiskOnWSA-1@79f2d86
